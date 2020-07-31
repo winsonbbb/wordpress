@@ -1,0 +1,2 @@
+2020-07-31T11:21:14+00:00 CRITICAL Out of memory (allocated 19136512) (tried to allocate 32768 bytes) in /var/www/html/wordpress/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Controllers/Version3/class-wc-rest-terms-controller.php on line 354
+
